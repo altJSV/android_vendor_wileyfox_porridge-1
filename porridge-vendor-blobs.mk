@@ -20,7 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/wileyfox/porridge/proprietary/bin/tiny_swapoff:system/bin/tiny_swapoff \
     vendor/wileyfox/porridge/proprietary/bin/tiny_swapon:system/bin/tiny_swapon \
     vendor/wileyfox/porridge/proprietary/bin/tiny_mkswap:system/bin/tiny_mkswap \
-    vendor/wileyfox/porridge/proprietary/bin/qmcX983d:system/bin/qmcX983d \
+    vendor/wileyfox/porridge/proprietary/bin/af7133d:system/bin/af7133d \
     vendor/wileyfox/porridge/proprietary/bin/em_svr:system/bin/em_svr \
     vendor/wileyfox/porridge/proprietary/xbin/mnld:system/xbin/mnld \
     vendor/wileyfox/porridge/proprietary/bin/mtkrildmd2:system/bin/mtkrildmd2 \
